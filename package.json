@@ -1,0 +1,16 @@
+{
+  "name": "lib-typescript-boilerplate",
+  "version": "1.0.0",
+  "license": "MIT",
+  "module": "./dist/index.js",
+  "main": "./dist/index.js",
+  "types": "./index.d.ts",
+  "dist": {},
+  "files": [
+    "package.json",
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  }
+}
